@@ -20,7 +20,7 @@ This project is for learning, demonstration, and portfolio use only.
 
 ---
 
-## 🎮 Features
+## Features
 
 - GUI-based Blackjack using **Tkinter**
 - Supports **1–3 hands** per round
